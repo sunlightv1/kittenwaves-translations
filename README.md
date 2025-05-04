@@ -13,6 +13,7 @@ Community-submitted translation files for KittenWaves
   - A Translator role in the [Discord Server](https://discord.gg/PKbutPa4wQ)
 
 ## Notes
+- Please only contribute translations if you're fluent or a native speaker of the language — we want accurate, natural phrasing, not machine-translated text
 - You’re not required to maintain your translations — they're public so anyone can contribute or improve them
 - Translations are pulled manually — they'll only be included when I make a new release
 - Only the English file is updated directly
