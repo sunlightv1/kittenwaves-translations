@@ -6,7 +6,7 @@ Community-submitted translation files for KittenWaves
 2. Add or update a translation JSON file in the appropriate language
 3. Open a pull request with your changes
 4. Wait for it to be merged and included in a future release
-#### Don't know how to make a pull request? Feel free to DM @vx.aboveground on Discord!
+#### Don't know how to make a pull request or you're unsure of something? Feel free to DM @vx.aboveground on Discord!
 
 ## What will I get in return?
 - Complete or nearly complete translations will earn you:
