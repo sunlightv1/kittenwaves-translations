@@ -19,3 +19,6 @@ Community-submitted translation files for KittenWaves
 - Translations are pulled manually — they'll only be included when I make a new release
 - Only the English file is updated directly
 - Missing translations will automatically fall back to English
+
+## Thank you to all the translators
+- Russian - [illcure](https://github.com/illcure)
