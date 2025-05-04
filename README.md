@@ -7,7 +7,13 @@ Community-submitted translation files for KittenWaves
 3. Open a pull request with your changes
 4. Wait for it to be merged and included in a future release
 
+## What will I get in return?
+- Complete or nearly complete translations will earn you:
+  - A free KittenWaves license key
+  - A Translator role in the [Discord Server](https://discord.gg/PKbutPa4wQ)
+
 ## Notes
+- You’re not required to maintain your translations — they're public so anyone can contribute or improve them
 - Translations are pulled manually — they'll only be included when I make a new release
-- The English file is the only one I update directly
+- Only the English file is updated directly
 - Missing translations will automatically fall back to English
