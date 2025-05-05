@@ -24,3 +24,4 @@ Community-submitted translation files for KittenWaves
 - Russian - [illcure](https://github.com/illcure)
 - Chinese - [Double](https://github.com/DoublexQAQ)
 - Turkish - [berkaymercer123](https://github.com/berkaymercer123)
+- German - [Denied](https://github.com/denied69)
