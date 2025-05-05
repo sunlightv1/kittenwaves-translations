@@ -23,3 +23,4 @@ Community-submitted translation files for KittenWaves
 ## Thank you to all the translators
 - Russian - [illcure](https://github.com/illcure)
 - Chinese - [Double](https://github.com/DoublexQAQ)
+- Turkish - [berkaymercer123](https://github.com/berkaymercer123)
