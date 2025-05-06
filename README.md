@@ -25,3 +25,5 @@ Community-submitted translation files for KittenWaves
 - Chinese - [Double](https://github.com/DoublexQAQ)
 - Turkish - [berkaymercer123](https://github.com/berkaymercer123)
 - German - [Denied](https://github.com/denied69)
+- Indonesian - [sl0zy](https://github.com/sl0zy)
+- Thai - [MR.Ghost-X](https://github.com/MoxxxGoo)
