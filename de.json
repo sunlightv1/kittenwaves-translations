@@ -1,4 +1,4 @@
-{
+l{
     "language_name": "Deutsch",
     "language_code": "de",
     "translations": {
@@ -40,7 +40,7 @@
       "DUMB_ENEMIES_HINT_TEXT": "Deaktivieren, wenn etwas nicht funktioniert.",
       "FORCE_SKIP_BUTTON_TEXT": "Erzwinge Überspringen-Schaltfläche",
       "SKIP_DIALOG_TEXT": "Dialog überspringen",
-      "SKIP_DIALOG_HINT_TEXT": "Taste im Einstellungs-Tab setzen, gedrückt halten während eines Dialogs.",
+      "SKIP_DIALOG_HINT_TEXT": "Taste im Einstellungs-Tab festlegen, gedrückt halten während eines Dialogs.",
       "AUTO_TALK_TEXT": "Auto-Sprechen",
       "NO_COOKING_ANIMATION_TEXT": "Keine Koch-Animation",
       "AUTO_MUTTERFLY_TEXT": "Auto-Mutterfly",
@@ -64,10 +64,10 @@
       "OTHER_TEXT": "Sonstiges",
       "FILTERS_TEXT": "Filter",
       "CHEST_TELEPORT_TEXT": "Truhen-Teleport",
-      "CHEST_TELEPORT_HINT_TEXT": "Taste im Einstellungs-Tab setzen und drücken.",
+      "CHEST_TELEPORT_HINT_TEXT": "Taste im Einstellungs-Tab festlegen und drücken.",
       "NO_CHEST_TIP_TEXT": "Keine Truhe gefunden",
       "MAP_TELEPORT_TEXT": "Karten-Teleport",
-      "MAP_TELEPORT_HINT_TEXT": "Taste im Einstellungs-Tab setzen, irgendwo auf die Karte klicken und drücken.",
+      "MAP_TELEPORT_HINT_TEXT": "Taste im Einstellungs-Tab festlegen, irgendwo auf die Karte klicken und drücken.",
       "CUSTOM_TELEPORT_TEXT": "Benutzerdefinierter Teleport",
       "EXPORT_NAME_TEXT": "Exportname",
       "EXPORT_LIST_TEXT": "Liste exportieren",
