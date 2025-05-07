@@ -27,3 +27,4 @@ Community-submitted translation files for KittenWaves
 - German - [Denied](https://github.com/denied69)
 - Indonesian - [sl0zy](https://github.com/sl0zy)
 - Thai - [MR.Ghost-X](https://github.com/MoxxxGoo)
+- Vietnamese - [Lascreia](https://github.com/SpiritEyeCeline)
