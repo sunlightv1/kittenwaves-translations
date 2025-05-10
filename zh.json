@@ -4,9 +4,9 @@
    "translations": {
      "NO_FALL_TEXT": "无坠落伤害",
      "ENABLED_TEXT": "已启用",
-     "NOCLIP_TEXT": "穿墙模式",
+     "NOCLIP_TEXT": "自由移动",
      "SPEED_TEXT": "速度",
-     "GODMODE_TEXT": "上帝模式",
+     "GODMODE_TEXT": "无敌模式",
      "GODMODE_HINT_TEXT": "主要在1.0地图生效，若出现问题请关闭",
      "MULTIHIT_TEXT": "多段攻击",
      "HIT_COUNT_TEXT": "连击数",
