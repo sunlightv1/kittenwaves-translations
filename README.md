@@ -22,9 +22,13 @@ Community-submitted translation files for KittenWaves
 
 ## Thank you to all the translators
 - Russian - [illcure](https://github.com/illcure)
-- Chinese - [Double](https://github.com/DoublexQAQ)
+- Chinese - [Double](https://github.com/DoublexQAQ), [PanGod](https://github.com/PanGodID)
 - Turkish - [berkaymercer123](https://github.com/berkaymercer123)
 - German - [Denied](https://github.com/denied69)
 - Indonesian - [sl0zy](https://github.com/sl0zy)
 - Thai - [MR.Ghost-X](https://github.com/MoxxxGoo)
 - Vietnamese - [Lascreia](https://github.com/SpiritEyeCeline)
+- Japanese - [cXSHoz](https://github.com/cXSHoz)
+- Italian - [espitto](https://github.com/espitto)
+- Spanish - [CharisardTT](https://github.com/MarrcosabTTS)
+- French - [jinx_x_x](https://github.com/Donaldeth)
